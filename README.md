@@ -49,13 +49,11 @@ You could create folders like:
 *   Databases
 *   DevOps & Continuous Delivery
 *   Distributed Systems & Scalability
-*   Kubernetes
-*   Machine Learning
-*   Programming Languages (Rust, Go, etc.)
-*   Software Architecture
+...
 ```
 
-📦 Installation
+# 📦 Installation
+
 This project uses uv for Python environment management. If you don’t have it:
 
 ```bash
