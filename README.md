@@ -52,7 +52,7 @@ You could create folders like:
 ...
 ```
 
-# 📦 Installation
+## 📦 Installation
 
 This project uses uv for Python environment management. If you don’t have it:
 
@@ -70,12 +70,7 @@ cp env-example .env
 uv run src/main.py /path/to/your/books
 ```
 
-🧠 Powered by LLMs
-This project relies on a Large Language Model (LLM) API to semantically classify book titles.
 
-You can plug in your own API provider (e.g. OpenAI, Google Gemini, Anthropic, etc.) by configuring the backend used in the code. The current version supports simple text classification via prompts.
+## 🔮 Roadmap
 
-
-🔮 Roadmap
-Next version will include:
 📂 Automatic folder creation and file moving
